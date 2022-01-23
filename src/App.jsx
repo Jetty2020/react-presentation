@@ -1,5 +1,4 @@
-import { Global, ThemeProvider } from '@emotion/react';
-import React, { useState } from 'react';
+import React from 'react';
 import { HelmetProvider } from 'react-helmet-async';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import CustomThemeProvider from './components/Theme/CustomThemeProvider';
