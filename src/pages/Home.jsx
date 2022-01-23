@@ -14,8 +14,8 @@ function Home() {
 export default Home;
 
 const Text = styled.p`
-  color: ${({ theme }) => theme.color.black};
+  color: ${({ theme }) => theme.text.bodyText};
   @media (min-width: ${({ theme }) => theme.mediaQuery.laptop}) {
-    color: ${({ theme }) => theme.color.primary};
+    color: ${({ theme }) => theme.text.primary};
   }
 `;
