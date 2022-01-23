@@ -1,6 +1,6 @@
 import styled from '@emotion/styled';
 import React from 'react';
-import PageTitle from '../components/PageTitle';
+import PageTitle from '../components/common/PageTitle';
 
 function Home() {
   return (
