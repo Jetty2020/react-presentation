@@ -10,20 +10,24 @@ const light = {
   bg: {
     primary: '#ff8a3d',
     bodyBg: '#ffffff',
+    darkBtn: '#eeeeee',
   },
   text: {
     primary: '#ff8a3d',
     bodyText: '#000000',
+    darkBtn: '#000000',
   },
 };
 const dark = {
   bg: {
     primary: '#ff8a3d',
     bodyBg: '#212121',
+    darkBtn: '#757575',
   },
   text: {
     primary: '#ff8a3d',
     bodyText: '#d9d9d9',
+    darkBtn: '#ffffff',
   },
 };
 
